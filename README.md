@@ -22,7 +22,7 @@ make st
 And lastly, install it with:
 ```bash
 mkdir -p ~/.local/bin
-ln -sfT ./st ~/.local/bin/st
+ln -sfT $(pwd)/st ~/.local/bin/st
 ```
 
 Done, `st` should now be available as a command as long as `~/.local/bin` is 
