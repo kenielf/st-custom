@@ -1,0 +1,4 @@
+# Ignore build and patch files
+/*.o
+/*.orig
+/st
