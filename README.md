@@ -25,6 +25,7 @@ Then, build `st` with:
 ```bash
 make st
 ```
+*Note: `st` depends on `libx11` and `libxft`, alongside a C compiler like `gcc`!*
 
 And lastly, install it with:
 ```bash
