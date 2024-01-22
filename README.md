@@ -6,6 +6,9 @@
  [(Direct Link)](https://st.suckless.org/patches/alpha/st-alpha-20220206-0.8.5.diff)
  2. **[Glyph Wide Support](https://st.suckless.org/patches/glyph_wide_support/)** 
  [(Direct Link)](https://st.suckless.org/patches/glyph_wide_support/st-glyph-wide-support-20220411-ef05519.diff)
+ 3. **[Scrollback](https://st.suckless.org/patches/scrollback/)**
+ [(Direct Link 1)](https://st.suckless.org/patches/scrollback/st-scrollback-20210507-4536f46.diff)
+ [(Direct Link 2)](https://st.suckless.org/patches/scrollback/st-scrollback-mouse-20220127-2c5edf2.diff)
 
 ## Building and Installation
 First, clone the repository and navigate to its folder with:
