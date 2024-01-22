@@ -1,6 +1,10 @@
 # Custom ST
 *Note: This configuration is built entirely for my own usage.*
 
+A fork of `st` with additional patches and configurations!
+
+The original repository and information can be found [here](https://st.suckless.org/)
+
 ## Patches
  1. **[Alpha](https://st.suckless.org/patches/alpha/)** 
  [(Direct Link)](https://st.suckless.org/patches/alpha/st-alpha-20220206-0.8.5.diff)
