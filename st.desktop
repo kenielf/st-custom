@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=st
+Comment=Suckless Terminal
+GenericName=Terminal emulator
+Exec=/bin/sh -c "${HOME}/.local/bin/st"
+Terminal=false
+NoDisplay=false
+Categories=System;TerminalEmulator;
+

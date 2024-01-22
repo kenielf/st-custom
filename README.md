@@ -23,6 +23,7 @@ And lastly, install it with:
 ```bash
 mkdir -p ~/.local/bin
 ln -sfT $(pwd)/st ~/.local/bin/st
+ln -sfT $(pwd)/st.desktop ~/.local/share/applications/st.desktop
 ```
 
 Done, `st` should now be available as a command as long as `~/.local/bin` is 
