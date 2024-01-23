@@ -21,6 +21,8 @@ LIBS = -L$(X11LIB) -lm -lrt -lX11 -lutil -lXft -lXrender\
        `$(PKG_CONFIG) --libs freetype2`
 
 # flags
+CFLAGS = -march=native -mtune=native -mavx2 -O2 -pipe -fno-plt -fexceptions
+LDFLAGS = -Wl,-O2,--sort-common,--as-needed,-z,relro,-z,now
 STCPPFLAGS = -DVERSION=\"$(VERSION)\" -D_XOPEN_SOURCE=600
 STCFLAGS = $(INCS) $(STCPPFLAGS) $(CPPFLAGS) $(CFLAGS)
 STLDFLAGS = $(LIBS) $(LDFLAGS)
