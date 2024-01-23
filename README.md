@@ -6,6 +6,8 @@ A fork of `st` with additional patches and configurations!
 The original repository and information can be found [here](https://st.suckless.org/)
 
 ## Patches
+*Note: Many of these patches may not apply correctly without manual intervention!*
+
  1. **[Alpha](https://st.suckless.org/patches/alpha/)** 
  [(Direct Link)](https://st.suckless.org/patches/alpha/st-alpha-20220206-0.8.5.diff)
  2. **[Glyph Wide Support](https://st.suckless.org/patches/glyph_wide_support/)** 
@@ -13,6 +15,8 @@ The original repository and information can be found [here](https://st.suckless.
  3. **[Scrollback](https://st.suckless.org/patches/scrollback/)**
  [(Direct Link 1)](https://st.suckless.org/patches/scrollback/st-scrollback-20210507-4536f46.diff)
  [(Direct Link 2)](https://st.suckless.org/patches/scrollback/st-scrollback-mouse-20220127-2c5edf2.diff)
+ 4. **[Boxdraw](https://st.suckless.org/patches/boxdraw/)**
+ [(Direct Link)](https://st.suckless.org/patches/boxdraw/st-boxdraw_v2-0.8.5.diff)
 
 ## Building and Installation
 First, clone the repository and navigate to its folder with:
