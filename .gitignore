@@ -1,4 +1,5 @@
 # Ignore build and patch files
 /*.o
 /*.orig
+/*.rej
 /st
