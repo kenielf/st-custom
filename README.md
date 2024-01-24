@@ -19,6 +19,8 @@ The original repository and information can be found [here](https://st.suckless.
  [(Direct Link)](https://st.suckless.org/patches/boxdraw/st-boxdraw_v2-0.8.5.diff)
  5. **[Dynamic Cursor Color](https://st.suckless.org/patches/dynamic-cursor-color/)**
  [(Direct Link)](https://st.suckless.org/patches/dynamic-cursor-color/st-dynamic-cursor-color-0.9.diff)
+ 6. **[Anysize](https://st.suckless.org/patches/anysize/)**
+ [(Direct Link)](https://st.suckless.org/patches/anysize/st-anysize-20220718-baa9357.diff)
 
 ## Building and Installation
 First, clone the repository and navigate to its folder with:
