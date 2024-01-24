@@ -17,6 +17,8 @@ The original repository and information can be found [here](https://st.suckless.
  [(Direct Link 2)](https://st.suckless.org/patches/scrollback/st-scrollback-mouse-20220127-2c5edf2.diff)
  4. **[Boxdraw](https://st.suckless.org/patches/boxdraw/)**
  [(Direct Link)](https://st.suckless.org/patches/boxdraw/st-boxdraw_v2-0.8.5.diff)
+ 5. **[Dynamic Cursor Color](https://st.suckless.org/patches/dynamic-cursor-color/)**
+ [(Direct Link)](https://st.suckless.org/patches/dynamic-cursor-color/st-dynamic-cursor-color-0.9.diff)
 
 ## Building and Installation
 First, clone the repository and navigate to its folder with:
